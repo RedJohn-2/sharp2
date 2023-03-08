@@ -1,0 +1,10 @@
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\bin\Debug\Task2Csharp.exe.config
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\bin\Debug\Task2Csharp.exe
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\bin\Debug\Task2Csharp.pdb
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\obj\Debug\Task2Csharp.csproj.AssemblyReference.cache
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\obj\Debug\Task2Csharp.Properties.Resources.resources
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\obj\Debug\Task2Csharp.csproj.GenerateResource.cache
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\obj\Debug\Task2Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\obj\Debug\Task2Csharp.exe
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\obj\Debug\Task2Csharp.pdb
+C:\Users\Lakad\source\repos\Task2Csharp\Task2Csharp\obj\Debug\Task2Csharp.Form1.resources
